@@ -1,2 +1,2 @@
-# dbScraper-api
-Making a python api to scrape sqlite databases
+# spooker
+Make the text files spooky because its halloween
